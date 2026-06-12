@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pydantic
+sqlalchemy
+pygetwindow
+pyperclip
+pyautogui
+pillow
+groq
+python-dotenv
